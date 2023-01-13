@@ -34,6 +34,6 @@ monitors:
 
   - id: store-grizzisland-com
     name: Homelab
-    url: 'https://jumphost.grizzisland.com/'
+    url: 'https://jumphost.grizzisland.com:3000'
     method: GET
     expectStatus: 200
